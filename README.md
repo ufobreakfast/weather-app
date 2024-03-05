@@ -1,5 +1,4 @@
 # weather-app
-weather web app
 
 +Weather API App
 
